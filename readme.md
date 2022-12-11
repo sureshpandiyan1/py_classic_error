@@ -1,6 +1,6 @@
 # intro
 
-py_classic_error is classic way to show erros for python users.
+py_classic_error is classic way to show errors for python users.
 
 # why you need py_classic_error ?
 
