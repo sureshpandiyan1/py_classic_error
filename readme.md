@@ -14,6 +14,8 @@ py_classic_error is classic way to show erros for python users.
 
 # example
 
+    from py_classic_error import py_classic_error
+    
     numbers = [1,2,3]
 
     try:
